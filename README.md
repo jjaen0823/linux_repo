@@ -33,7 +33,7 @@
 
 
 # [ Discussion ]
-### Extra searching time issue
+### Extra searching time issue...
 ##### [ solutions ]
 1. Extra searching time is not much costly.
 - search list data 1/2 + tree data 1/2 : takes 1.2x more time
