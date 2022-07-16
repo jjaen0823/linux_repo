@@ -17,3 +17,20 @@
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/75469281/179346805-5b4010e8-bb4e-48e3-8b50-ac64c41fcf68.png">
 
 
+### Benefits
+#### multi threading effect
+---
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/75469281/179346847-aba9538e-5045-45c5-b48b-04798cc356de.png">
+[implementation code](https://github.com/jjaen0823/linux_repo/blob/main/RBTrist/rbtree_%E1%84%8C%E1%85%A6%E1%84%8E%E1%85%AE%E1%86%AF%E1%84%8B%E1%85%AD%E1%86%BC.c)
+
+
+
+### Result
+#### Experiment environment
+  OS: Ubuntu 20.04, kernel: 5.11.10
+  Core: 11th Gen Intel Core i7-1165G7 2.80GHz 
+  RAM: 16GB, SSD: 512GB  
+  the number of thread : 8
+
+
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/75469281/179346903-f7ca4a6d-f808-4c17-9fe1-16af69bbf9eb.png">
