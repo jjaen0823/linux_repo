@@ -32,9 +32,9 @@
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/75469281/179346903-f7ca4a6d-f808-4c17-9fe1-16af69bbf9eb.png">
 
 
-# Discussion
+# [ Discussion ]
 #### Extra searching time issue
-solutions
+##### [ solutions ]
 1. Extra searching time is not much costly.
 - search list data 1/2 + tree data 1/2 : takes 1.2x more time
 - search all list data (worst case) : takes 1.6x more time
