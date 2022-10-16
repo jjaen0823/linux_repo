@@ -1,4 +1,4 @@
-# [Linux 과제 정리](https://jjaen.notion.site/Linux-af49a08aa1f7421ba16d1f2a0e2b1312)
+## [Linux 과제 정리](https://jjaen.notion.site/Linux-af49a08aa1f7421ba16d1f2a0e2b1312)
 
 
 #  [RBTrist](https://github.com/jjaen0823/linux_repo/blob/main/RBTrist)
