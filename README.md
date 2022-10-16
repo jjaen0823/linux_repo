@@ -1,3 +1,6 @@
+# [Linux 과제 정리](https://jjaen.notion.site/Linux-af49a08aa1f7421ba16d1f2a0e2b1312)
+
+
 #  [RBTrist](https://github.com/jjaen0823/linux_repo/blob/main/RBTrist)
 #### [ 리눅스 커널 자료구조를 이용한 성능 개선 프로젝트 ]
 
