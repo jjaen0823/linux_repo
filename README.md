@@ -16,7 +16,7 @@
 
 # 2. Key Idea 
 #### linked list in all leaf nodes of RB tree
-- RE tree의 모든 leaf node에 linked list를 연결함으로써, critical section을 leaf node로 축소할 수 있다.
+- RB tree의 모든 leaf node에 linked list를 연결함으로써, critical section을 leaf node로 축소할 수 있다.
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/75469281/179346805-5b4010e8-bb4e-48e3-8b50-ac64c41fcf68.png">
 
 
